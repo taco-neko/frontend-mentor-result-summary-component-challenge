@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/result-summary-component-using-html-and-css-gYs13OP7oE)
+- Live Site URL: [Github Pages](https://taco-neko.github.io/frontend-mentor-result-summary-component-challenge/)
 
 ## My process
 
