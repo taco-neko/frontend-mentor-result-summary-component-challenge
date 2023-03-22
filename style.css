@@ -25,7 +25,7 @@
 
 @font-face {
     font-family: 'Hanken Grotesk';
-    src: url('../assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');
+    src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');
     font-style: normal;
     font-weight: 500 800;
 }
@@ -107,6 +107,7 @@ body {
 .result-total {
     color: hsl(var(--neutral-lavender), 0.5);
     font-size: var(--font-size-paras);
+    font-weight: 500;
 }
 
 .result-text-title {
@@ -126,6 +127,7 @@ body {
     margin: 0 auto 3rem;
     color: hsl(var(--neutral-lavender), 0.75);
     font-size: var(--font-size-paras);
+    font-weight: 500;
 }
 
 .results-summary {
@@ -216,6 +218,7 @@ body {
 
 .attribution {
     text-align: center;
+    font-weight: 500;
 }
 
 .attribution a {
